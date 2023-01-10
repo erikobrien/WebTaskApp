@@ -1,5 +1,2 @@
-drink beer
-drink coffee
-eat pizza
-take pills
-eat mushrooms
+ make coffee
+ drink coffee
